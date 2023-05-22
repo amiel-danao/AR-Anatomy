@@ -1,0 +1,31 @@
+before May 20
+P4500
+
+dp: P1125
+
+
+switch into wireframe/solid view
+
+solid surface dapat malagay ang model
+
+controls for Rotate/Zoom
+
+separated parts
+
+thumbnail selection at the bottom
+
+organs:
+internal:
+	*heart	
+	*lungs
+	stomach
+	*liver
+	*brain
+external:
+	*hand
+	*feet
+	*head
+	*legs
+	*eyes
+	*nose
+	*ear

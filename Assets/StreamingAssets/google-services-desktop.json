@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568084780564",
+    "project_id": "ar-anatomy-c2bff",
+    "storage_bucket": "ar-anatomy-c2bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568084780564:android:3bb74b2d4a3f9250bff901",
+        "android_client_info": {
+          "package_name": "com.thesis.anatomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568084780564-onqn8f5o0jt5osrh1r507mkim61geldg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDpxQaZs9sHr-dF4cokWipUigR6dZWdn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568084780564-onqn8f5o0jt5osrh1r507mkim61geldg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
